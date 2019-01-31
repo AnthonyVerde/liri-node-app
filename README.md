@@ -15,5 +15,11 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 
 ## Functionality:
 
-![Step 1](/assets/step1.png)
+![Spotify functionality](/assets/liri-spotify.mp4)
+
+![Bandsintown functionality](/assets/liri-bandsintown.mp4)
+
+![OMDB functionality](/assets/liri-omdb.mp4)
+
+![No instruction given](/assets/liri-no-instruction.mp4)
 
