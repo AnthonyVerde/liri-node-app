@@ -14,12 +14,10 @@ In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, whi
 * DotEnv
 
 ## Functionality:
+**No instruction given:**
+![No instruction given](/assets/step1.png)
+![No instruction given](/assets/step2.png)
 
-![Spotify functionality](/assets/liri-spotify-480p.mov)
-
-![Bandsintown functionality](/assets/liri-bandsintown.mp4)
-
-![OMDB functionality](/assets/liri-omdb.mp4)
-
-![No instruction given](/assets/liri-no-instruction.mp4)
-
+**Spotify functionality:**
+![Spotify default](/assets/step3.png)
+![Spotify default result](/assets/step4.png)
