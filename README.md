@@ -50,6 +50,7 @@ If a movie title is input by the user, LIRI will provide a response containing i
 ![OMDB user input](/assets/step12.png)
 ![OMDB user input result](/assets/step13.png)
 
-All responses from LIRI, including errors (if any), are appended to the log.txt file.
+*All responses from LIRI, including errors (if any), are appended to the log.txt file.*
 
+*Check assets folder for some videos of functionality*
 
